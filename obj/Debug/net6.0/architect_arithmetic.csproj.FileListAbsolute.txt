@@ -1,0 +1,15 @@
+/Users/clairelaing/c_sharp/architect_arithmetic/bin/Debug/net6.0/architect_arithmetic
+/Users/clairelaing/c_sharp/architect_arithmetic/bin/Debug/net6.0/architect_arithmetic.deps.json
+/Users/clairelaing/c_sharp/architect_arithmetic/bin/Debug/net6.0/architect_arithmetic.runtimeconfig.json
+/Users/clairelaing/c_sharp/architect_arithmetic/bin/Debug/net6.0/architect_arithmetic.dll
+/Users/clairelaing/c_sharp/architect_arithmetic/bin/Debug/net6.0/architect_arithmetic.pdb
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.csproj.AssemblyReference.cache
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.AssemblyInfoInputs.cache
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.AssemblyInfo.cs
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.csproj.CoreCompileInputs.cache
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.dll
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/refint/architect_arithmetic.dll
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.pdb
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/architect_arithmetic.genruntimeconfig.cache
+/Users/clairelaing/c_sharp/architect_arithmetic/obj/Debug/net6.0/ref/architect_arithmetic.dll
